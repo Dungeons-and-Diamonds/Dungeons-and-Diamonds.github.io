@@ -4,9 +4,9 @@ remote_theme: y7kim/agency-jekyll-theme
 url: https://dndmc.net
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Dungeons and Diamonds
+email: admin@dndmc.net
+description: "Join us on oor Survival Multiplayer Minecraft Server!"
 
 
 # Team names, titles and social links
@@ -59,8 +59,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: dndmc.net
 
 # Build settings
 permalink: pretty
