@@ -4,7 +4,7 @@ feature_text: |
   ## Dungeons and Diamonds
   Join us on Minecraft at dndmc.net!
 feature_image: "/assets/banner.png"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "We are a Towny survival server centered around exploration and discovery. We have custom dungeons and all original builds! Come join us and find some treasure!"
 ---
 
 We are a Towny survival server centered around exploration and discovery. We have custom dungeons and all original builds! Come join us and find some treasure!
