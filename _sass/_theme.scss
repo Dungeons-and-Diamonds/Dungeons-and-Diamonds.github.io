@@ -85,6 +85,12 @@ body {
   display: inline-block;
 }
 
+.copyright {
+  .small {
+    color: $footerTextColor;
+  }
+}
+
 .footer {
   background: $headingColour;
   color: $footerTextColor;
