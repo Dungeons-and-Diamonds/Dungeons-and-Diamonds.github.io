@@ -141,6 +141,15 @@ body {
   @include flex(0, 0, auto);
 }
 
+.feature {
+  min-height: 400px;
+  .container {
+    .p {
+      color: $hoverColour;
+    }
+  }
+}
+
 .content {
   @include breakpoint(break-1) {
     width: 62%;
