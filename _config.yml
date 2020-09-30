@@ -109,6 +109,8 @@ navigation_header:
   url: /rules
 - title: Map
   url: http://map.dndmc.net
+- title: Store
+  url: https//store.dndmc.net
 - title: Discord
   url: https://discord.dndmc.net
 
