@@ -78,7 +78,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Dungeons and Diamonds" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/dndlogo.png" # Site logo, also used in jekyll-seo-tag
 description: "We are a Towny survival server centered around exploration and discovery. We have custom dungeons and all original builds! Come join us and find some treasure!" # Site description and default description, also used in jekyll-seo-tag
 url: "https://dndmc.net" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -105,6 +105,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+- title: Rules
+  url: /rules
 - title: Map
   url: http://map.dndmc.net
 - title: Discord
