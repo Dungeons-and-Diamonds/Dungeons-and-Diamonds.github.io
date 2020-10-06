@@ -1,8 +1,7 @@
 ---
 title: Rules
 feature_text: |
-  ## Rules
-  Rules for server and discord conduct
+  # Rules
 feature_image: "/assets/rules_banner.png"
 excerpt: "Rules for server and discord conduct"
 aside: false
