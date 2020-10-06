@@ -1,4 +1,12 @@
-# Rules
+---
+title: Rules
+feature_text: |
+  Rules for server and discord conduct
+feature_image: "/assets/rules_banner.png"
+excerpt: "Rules for server and discord conduct"
+aside: true
+---
+
 ## Minecraft Server Rules
 
 ***Rules are subject to change. If there are changes, it will be announced.***
