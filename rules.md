@@ -1,4 +1,4 @@
-Rules
+# Rules
 ## Minecraft Server Rules
 
 ***Rules are subject to change. If there are changes, it will be announced.***
