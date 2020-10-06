@@ -1,10 +1,11 @@
 ---
 title: Rules
 feature_text: |
+  ## Rules
   Rules for server and discord conduct
 feature_image: "/assets/rules_banner.png"
 excerpt: "Rules for server and discord conduct"
-aside: true
+aside: false
 ---
 
 ## Minecraft Server Rules
