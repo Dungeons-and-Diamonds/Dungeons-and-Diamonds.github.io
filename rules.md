@@ -1,4 +1,3 @@
-# Rules
 
 ## Minecraft Server Rules
 
