@@ -16,6 +16,6 @@ We are a Towny survival server centered around exploration and discovery. We hav
 
 We are just getting started and would love for you to join our community. We have plans for several Dungeons and Quests, besides the traditional Towny gamemode. Come join us and experience the fun for yourself!
 
-We recognize that times are tough for everyone right now, but if you would like to support us you can do so through our [store](https://store.dndmc.net).
+We recognize that times are tough for everyone right now, but if you would like to support us you can do so through our [store](http://store.dndmc.net).
 
 ![Hole](https://cdn.discordapp.com/attachments/761609105361862696/763868985531039784/image0-1-1.gif)
