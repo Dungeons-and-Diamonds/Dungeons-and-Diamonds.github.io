@@ -18,14 +18,14 @@ Check out these streamers for some content from this server!
   <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
   <script type="text/javascript">
     new Twitch.Embed("twitch-pvtporkchop", {
-      width: 1000,
+      width: 1200,
       height: 480,
       channel: "pvtporkchop"
     });
   </script>
   <script type="text/javascript">
     new Twitch.Embed("twitch-imladydra9on", {
-      width: 854,
+      width: 1200,
       height: 480,
       channel: "imladydra9on"
     });
