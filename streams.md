@@ -7,7 +7,6 @@ excerpt: "Streams on this server"
 aside: false
 ---
 
-## Streams
 Check out these streamers for some content from this server!
 
   <div id="twitch-pvtporkchop"></div>
@@ -19,7 +18,7 @@ Check out these streamers for some content from this server!
   <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
   <script type="text/javascript">
     new Twitch.Embed("twitch-pvtporkchop", {
-      width: 854,
+      width: 1000,
       height: 480,
       channel: "pvtporkchop"
     });
