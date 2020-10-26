@@ -4,7 +4,7 @@ feature_text: |
   # Streams
 feature_image: "/assets/streams_banner.png"
 excerpt: "Streams on this server"
-aside: false
+aside: true
 ---
 
 Check out these streamers for some content from this server!
