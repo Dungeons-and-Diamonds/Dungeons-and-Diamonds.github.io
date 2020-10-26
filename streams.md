@@ -4,13 +4,13 @@ feature_text: |
   # Streams
 feature_image: "/assets/streams_banner.png"
 excerpt: "Streams on this server"
-aside: true
+aside: false
 ---
 
 Check out these streamers for some content from this server!
 
-  <div id="twitch-pvtporkchop"></div>
-  <div id="twitch-imladydra9on"></div>
+  <div id="twitch-pvtporkchop" style="float:right;"></div>
+  <div id="twitch-imladydra9on" style="float:right;"></div>
 
   <!-- Load the Twitch embed script -->
   <script src="https://embed.twitch.tv/embed/v1.js"></script>
