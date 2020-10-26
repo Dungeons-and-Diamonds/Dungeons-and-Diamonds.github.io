@@ -156,6 +156,12 @@ body {
   }
 }
 
+.content-wide {
+  @include breakpoint(break-1) {
+    width: 82%;
+  }
+}
+
 .share .button {
   margin-right: .3rem;
 }

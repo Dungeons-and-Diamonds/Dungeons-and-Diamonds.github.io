@@ -5,8 +5,8 @@ layout: default
 {% include site-header.html %}
 
 <main class="main  container">
-
-  <article class="article  article--page  content typeset">
+  {% if page.wide == true  %}<article class="article article--page content-wide typeset">{% endif %}
+  {% if page.wide == false %}<article class="article article--page content typeset">{% endif %}
 
     <h1>{{ page.title }}</h1>
 
