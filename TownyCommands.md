@@ -3,7 +3,7 @@ title: Towny Commands
 feature_text: |
   ## Towny Commands
 feature_image: "/assets/banner.png"
-excerpt: "We are a Towny survival server centered around exploration and discovery. We have custom dungeons and all original builds! Come join us and find some treasure!"
+excerpt: "Use this page to look up a commnad for use with the TownyAdvanced plugin."
 ---
 
 ### /towny
