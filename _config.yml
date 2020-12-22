@@ -109,6 +109,8 @@ navigation_header:
   url: /rules
 - title: Map
   url: http://map.dndmc.net
+- title: Help
+  url: /help
 - title: Streams
   url: /streams
 - title: Store
