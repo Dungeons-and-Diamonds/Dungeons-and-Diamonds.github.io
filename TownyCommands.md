@@ -160,3 +160,16 @@ excerpt: "Use this page to look up a commnad for use with the TownyAdvanced plug
     - /nation set tag {upto4character} - Sets the nation's tag, which is sometimes used on that chat line.
     - /nation set clear - Clears the tag set for the nation.
   - /nation toggle neutral - Sets whether your nation will pay daily to be neutral during towny war.
+  
+  ### Chat commands
+  - /townchat, /tc - Put in from of text to speak with members of your town only, or without text afterwards to enter the channel.
+  - /nationchat, /nc - Put in from of text to speak with members of your nation only, or without text afterwards to enter the channel.
+  - /global, /g - Put in from of text to speak in globalchat, or without text afterwards to enter the channel.
+  - /res set mode reset - Reset chat mode to default chat.
+
+  - /channel leave|join {channel} - Channel leaving and joining.
+  - /leave {channel} - Leaves a channel.
+  - /join {channel} - Joins a channel.
+  - /chmute {channel} {player} - Mutes a player in a channel.
+  - /mutelist {channel} - Displays mute list for a channel.
+  - /chunmute {channel} {player} - Unmutes a player in a channel.
