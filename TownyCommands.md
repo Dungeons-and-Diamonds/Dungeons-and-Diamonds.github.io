@@ -3,7 +3,7 @@ title: Towny Commands
 feature_text: |
   ## Towny Commands
 feature_image: "/assets/banner.png"
-excerpt: "Use this page to look up a commnad for use with the TownyAdvanced plugin."
+excerpt: "Use this page to look up a command for use with the TownyAdvanced plugin."
 ---
 
 ### /towny
